@@ -1,0 +1,28 @@
+name: Coenraad Dingemans Audio Productions
+favicon: null
+layout_spectrum: 0.7686864188872278
+typography_spectrum: 0.0969069367274642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7458018907345831
+  lightness: 0.8216364046093076
+  saturation: 0.757096681278199
+  rhythmicContrast: 0.6321801238227636
+purpose: []
