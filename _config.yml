@@ -1,7 +1,7 @@
 name: Passionate Audio Productions
 favicon: null
-layout_spectrum: 0.3077
-typography_spectrum: 1
+layout_spectrum: 0.75419
+typography_spectrum: 0.63378
 collections:
   - index:
       path: /
